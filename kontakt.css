@@ -1,0 +1,13 @@
+h1 {
+	background: grey
+}
+h2 {
+	font-size: 30px;
+	color: blue;
+label {
+	font-size: 30px;
+	}
+button {
+	margin-top: 5px;
+	margin-left: 5px;
+	}
